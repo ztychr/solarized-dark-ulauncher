@@ -1,2 +1,4 @@
-# solarized-dark-ulauncher
-Solarized Dark theme for ulauncher
+# Solarized Dark for ULauncher
+Simple Solarized Dark theme for ULauncher
+# Installation
+copy directory to ~/.config/ulauncher/user-themes/
